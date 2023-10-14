@@ -1,0 +1,196 @@
+.sidebar {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidebar a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidebar a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  .openbtn {
+    font-size: 25px;
+    cursor: pointer;
+    background-color: #111;
+    color: white;
+    border: none;
+
+    margin-left: 25px;
+  }
+  
+  .openbtn:hover {
+    background-color: #444;
+  }
+  
+  #main {
+    transition: margin-left .5s;
+    /* padding: 16px; */
+  }
+  #Pharmanest{
+    
+    margin-top: -5px;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: -1250px;
+ }
+#up{
+    padding-left: 200px;
+  
+   font-weight: bold;
+   
+   font-size: 20px;
+}
+
+ #upp{
+    padding-right: 10px;
+ } 
+ #xyz{
+   width: 370px;
+ }
+ #second{
+   padding-left: 285px;
+   /* color: #818181; */
+ }
+ #innerbox{
+   font-size: large;
+   font-weight: bold;
+   font-family: cursive;
+   color: #707274;
+
+ }
+ #innerbox div:hover{
+ font-style: italic;
+background: #393a3b;
+}
+marquee{
+  font-size: 75px;
+  font-weight: bold;
+  color: black;
+}
+
+  
+ h5{
+    text-align: center;
+   
+}
+.text-muted{
+    margin-left: 155px;
+}
+#mark{
+    font-size: 75px;
+    font-weight: bold;
+    color: black;
+    padding-left: 420px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.card{
+    border: 2px solid black;
+}
+.card:hover{
+    background-color:#f2f2f2;
+
+}
+.photo{
+    height: 45px;
+    width: 45px;
+    border-radius: 10px;
+}
+
+/* #boxx{
+    color: #707274;
+} */
+
+#topppp1{
+    margin-left: -750px;
+    font-size: 40px;
+}
+
+#topppp2{
+    margin-left: -945px;
+    font-size: 25px;
+}
+
+#topppp3{
+    margin-left: -805px;
+    font-size: 25px;
+}
+.rounded-circle{
+    margin-left: 15px;
+}
+.card-text{
+   margin-left: 65px;
+}
+#headd{
+    font-size: 45px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#formm{
+    width: 35%;
+}
+#btnn{
+    margin-top: 25px;
+    width: 75%;
+    margin-left: 42px;
+}
+body{
+    background: linear-gradient(115deg, #6eceda 10%,#f2eee5  90%);
+
+}
+#dharya{
+  /* margin-top: 40px; */
+    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 160px;
+        margin-right: 160px;
+       padding-top: 46px;
+       width:75%;
+        
+      }  
+    .box{
+     /* max-width: 1000px;
+     max-height: 10000px; */
+     padding: 15px; 
+    background:#f2f2f2;
+    border: solid black 2px;
+    font-family: 'Oswald', sans-serif;
+  }  
+  .details{
+  text-align: center;
+} 
+#heading{
+    padding: 2px;
+    font-size: 90px;
+    color:black;
+    /* margin-top: -10px; */
+    text-align: center;
+} 

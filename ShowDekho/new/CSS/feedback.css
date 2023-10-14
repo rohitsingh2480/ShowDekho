@@ -1,0 +1,309 @@
+.container-fluid{
+    margin-left:-1090px;
+}
+.container{
+    margin-left: 37px;
+}
+img{
+    height: 45px;
+    width: 45px;
+    border-radius: 10px;
+}
+/* 
+.signup{
+    text-align: center;
+}
+.signup a:hover{
+    text-decoration: underline;
+}
+.signup a{
+   
+    text-decoration: none;
+} */
+footer{
+    margin-top:80px;
+    padding-left: 55px;
+}
+body{
+    background: linear-gradient(115deg, #6eceda 10%,#f2eee5  90%);
+
+}
+
+#innerfooter{
+    /* padding-left:-55px; */
+    margin-left:0px;
+}
+#abc{
+    width:425px;  
+  }
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 40px;
+    /* background: linear-gradient(115deg, #6eceda 10%,#f2eee5  90%); */
+    
+  }
+  .box{
+    max-width: 800px;
+    background:#f2f2f2;
+    width: 800px;
+    padding: 25px 40px 10px 40px;
+    border: solid black 2px;
+    font-family: 'Oswald', sans-serif;
+    /* background: linear-gradient(100deg, grey 50%, rgb(212, 211, 211) 50%); */
+    
+  }
+  h1{
+    display: flex;
+  font-size: 40px;
+  color: black;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  justify-content: center;
+  } 
+  
+ #feedback{
+    width: 96%;
+    bottom: 40px;
+    background: white;
+    margin-left: 17px;
+    resize: vertical;
+    margin-top: 10px;
+  }  
+  .center form .data{
+    display: flex;
+    padding: 5x;
+    
+}
+form .data .qwe{
+  width: 320px;
+  height:40px;
+  margin: 2px;
+  margin-left: 20px;
+  
+  /* position: relative; */
+} 
+form .data .bcd{
+  margin-left: 20px ;
+}
+
+  .btn_sub{
+    width: 25%;
+    
+    padding-top: 5px;
+    border: 2px solid black;
+    background-color:black ;
+    color: white;
+    font-size: 20px;
+  font-weight: 500;
+    margin: 17px;
+    margin-left: 36%;
+    border-radius: 15px;
+    letter-spacing: 1px;
+    cursor:pointer;
+    position: relative;
+    
+}
+#xyz{
+  width: 425px;
+}
+#searchh{
+   margin-right: 10px;
+}
+
+.sidebar {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidebar a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidebar a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  .openbtn {
+    font-size: 25px;
+    cursor: pointer;
+    background-color: #111;
+    color: white;
+    border: none;
+
+    margin-left: 25px;
+  }
+  
+  .openbtn:hover {
+    background-color: #444;
+  }
+  
+  #main {
+    transition: margin-left .5s;
+    /* padding: 16px; */
+  }
+  #Pharmanest{
+    
+    margin-top: -5px;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: cursive;
+    margin-left: -1250px;
+ }
+#up{
+    padding-left: 200px;
+  
+   font-weight: bold;
+   
+   font-size: 20px;
+}
+
+ #upp{
+    padding-right: 10px;
+ } 
+ #xyz{
+   width: 370px;
+ }
+ #second{
+   padding-left: 285px;
+   /* color: #818181; */
+ }
+ #innerbox{
+   font-size: large;
+   font-weight: bold;
+   font-family: cursive;
+   color: #707274;
+
+ }
+ #innerbox div:hover{
+ font-style: italic;
+background: #393a3b;
+}
+/* marquee{
+  font-size: 75px;
+  font-weight: bold;
+  color: black;
+}
+
+  
+ h5{
+    text-align: center;
+   
+}
+.text-muted{
+    margin-left: 155px;
+}
+#mark{
+    font-size: 75px;
+    font-weight: bold;
+    color: black;
+    padding-left: 420px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.card{
+    border: 2px solid black;
+}
+.card:hover{
+    background-color:#f2f2f2;
+
+}
+.photo{
+    height: 45px;
+    width: 45px;
+    border-radius: 10px;
+}
+
+/* #boxx{
+    color: #707274;
+} */
+
+#topppp1{
+    margin-left: -750px;
+    font-size: 40px;
+}
+
+#topppp2{
+    margin-left: -945px;
+    font-size: 25px;
+}
+
+#topppp3{
+    margin-left: -805px;
+    font-size: 25px;
+}
+.rounded-circle{
+    margin-left: 15px;
+}
+.card-text{
+   margin-left: 65px;
+}
+#headd{
+    font-size: 45px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#formm{
+    width: 35%;
+}
+#btnn{
+    margin-top: 25px;
+    width: 75%;
+    margin-left: 42px;
+} 
+#cardddddd:hover{
+    background-color:#f2f2f2;
+
+}
+#pic{
+    margin-left:42%;
+}
+#pic:hover{
+    margin:2px,solid,black;
+}
+#lefftttt{
+    margin-left:115px;
+}
+#marg{
+    margin-left:-35px;
+}
+.card-1 {
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    background-color: #fff
+}
+
+.icons i {
+    margin-left: 20px;
+}
+#centt{
+    margin-left: 78px;
+}
+
+
